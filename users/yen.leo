@@ -39,6 +39,9 @@
 <v t="yen.20170108171733.16" a="E"><vh>快捷鍵</vh>
 <v t="leo.20170623015344.1"><vh>頭目</vh></v>
 </v>
+<v t="leo.20170623113927.1" a="E"><vh>123</vh>
+<v t="leo.20170623114040.1"><vh>321</vh></v>
+</v>
 <v t="leo.20170623015435.1" a="E"><vh>5566</vh>
 <v t="leo.20170623015452.1"><vh>7788</vh></v>
 </v>
@@ -82,6 +85,17 @@
 ，應該說自己做的是自己承擔吧我也願意
 接受結果，也不會去抱怨任何事，大二在
 從新來過，好好學習，謝謝老師。</t>
+<t tx="leo.20170623113927.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20170623114040.1">##設定網路proxy
+###去設定找變更proxy
+###按lan設定
+接著位址打proxy.mde.tw
+連接埠打3128
+按確定即可變更</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
